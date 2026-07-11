@@ -1,0 +1,83 @@
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+venv/
+.venv/
+/.env
+.env
+
+/venv
+/venv/
+/__pycache__
+# IDE
+.vscode/
+.idea/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# SQLite Databases
+*.db
+*.sqlite3
+
+# ChromaDB / Vector DB
+
+
+
+# AI Models & Downloads
+models/
+*.bin
+*.onnx
+*.tflite
+*.pt
+*.pth
+
+# Audio
+*.wav
+*.mp3
+
+# Screenshots
+
+# Voice Recognition
+
+
+# Temporary Files
+temp/
+tmp/
+*.tmp
+
+# Build
+build/
+dist/
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Coverage
+.coverage
+htmlcov/
+.pytest_cache/
+
+# Mypy
+.mypy_cache/
+
+# Ruff
+.ruff_cache/
+
+# Pyright
+.pyright/
+
+# Cache
+.cache/
+
+# Secrets
+*.pem
+*.key
+*.crt

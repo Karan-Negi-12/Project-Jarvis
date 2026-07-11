@@ -1,0 +1,16 @@
+google-genai>=0.3.0 
+python-dotenv>=1.0.0
+requests>=2.31.0
+pyautogui>=0.9.54
+faster-whisper>=1.0.0
+sounddevice>=0.4.6
+scipy>=1.11.0
+pyttsx3>=2.90
+numpy>=1.24.0
+openwakeword>=0.6.0
+resemblyzer>=0.1.1
+librosa>=0.10.0
+chromadb>=0.4.22
+resemblyzer>=0.1.1
+onnxruntime
+speechbrain
